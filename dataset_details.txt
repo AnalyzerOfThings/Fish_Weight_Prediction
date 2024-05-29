@@ -1,0 +1,9 @@
+Dataset details
+
+length1: vertical length
+length2: diagonal length
+length3: cross length
+height: height in cm
+width: diagonal width in cm
+weight: weight in grams
+species: species of fish
